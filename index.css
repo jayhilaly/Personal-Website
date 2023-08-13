@@ -59,7 +59,7 @@ body {
 }
 
 .skills {
-  height: 675px;
+  min-height: 675px;
   color: black;
 }
 
